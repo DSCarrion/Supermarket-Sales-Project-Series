@@ -10,7 +10,7 @@ This portfolio project showcases a multi-phase, tool-diverse approach to analyzi
 |--------|-------|--------|
 | [Excel Dashboard & Report](#excel-analysis) | Excel, Pivot Tables, Charts | ✅ Completed |
 | [SQL Queries & Reporting](#sql-analysis) | SQL (SSMS) | ✅ Completed |
-| [Data Modeling & Normalization](#data-modeling-normalization) | SQL (Table Design) | 🔄 In Progress |
+| [Data Modeling & Normalization](#data-modeling-normalization) | SQL (Table Design) | ✅ Completed |
 | [Power BI Dashboard](#power-bi-dashboard) | Power BI | 🔄 In Progress |
 
 ---
@@ -39,14 +39,15 @@ Using a cleaned version of the same dataset, I recreated the analysis using SQL 
 
 ## 🧱 Data Modeling & Normalization
 
-> 🔄 *Coming Soon*  
-This module will use SQL to create a normalized data model consisting of:
+This module will use SQL to create a normalized data model consisiting of the tables mentioned below. These tables will be exported for use in Power BI to support clean data integration and better visualization design.
 - Products table
 - Customers/Members table
-- Sales table
-- A master fact table
+- Dates table
+- Transaction Fact table (master fact table)
 
-These tables will be exported for use in Power BI to support clean data integration and better visualization design.
+### 🔗 Files:
+- 🗃️ [SQL Script File (.sql)](https://drive.google.com/file/d/1KEVyJR-nwMeCxhLPcO82S9oby2S9y6Ik/view?usp=drive_link)
+- 📥 [Excel Master & Transaction Fact Tables (.xls)](https://docs.google.com/spreadsheets/d/1S0gIPY0jO-U0wxWnvr2L-cMuf6dS63Lu/edit?usp=drive_link&ouid=109713503946359342917&rtpof=true&sd=true)
 
 ---
 
