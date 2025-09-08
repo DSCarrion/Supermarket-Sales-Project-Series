@@ -47,7 +47,7 @@ This module will use SQL to create a normalized data model consisiting of the ta
 
 ### 🔗 Files:
 - 🗃️ [SQL Script File (.sql)](https://drive.google.com/file/d/1KEVyJR-nwMeCxhLPcO82S9oby2S9y6Ik/view?usp=drive_link)
-- 📥 [Excel Master & Transaction Fact Tables (.xls)](https://docs.google.com/spreadsheets/d/1S0gIPY0jO-U0wxWnvr2L-cMuf6dS63Lu/edit?usp=drive_link&ouid=109713503946359342917&rtpof=true&sd=true)
+- 📥 [Excel Normalized Dataset (.xls)](https://docs.google.com/spreadsheets/d/1S0gIPY0jO-U0wxWnvr2L-cMuf6dS63Lu/edit?usp=drive_link&ouid=109713503946359342917&rtpof=true&sd=true)
 
 ---
 
