@@ -55,6 +55,7 @@ This module will use SQL to create a normalized data model consisiting of the ta
 
 > 🔄 *Coming Soon*  
 An interactive Power BI dashboard will complete the project series by visually presenting KPIs, segmentation filters, and sales performance insights.
+- 🗃️ [Power BI Dashboard (.pxi)](https://drive.google.com/file/d/1kNQs_SnQU7FcJC__la1dfPLFO85QjBAo/view?usp=drive_link)
 
 ---
 
