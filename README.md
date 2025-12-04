@@ -52,10 +52,11 @@ This module will use SQL to create a normalized data model consisiting of the ta
 ---
 
 ## 📊 Power BI Dashboard
+ 
+Using the normalized dataset from the "Data Modeling & Normalization" module, I have created an interactive Power BI dashboard presenting KPIs, customer purchasing behavior, and product demand insights. This Power BI Dashboard module completes the Supermarket Sales project series.
 
-> 🔄 *Coming Soon*  
-An interactive Power BI dashboard will complete the project series by visually presenting KPIs, segmentation filters, and sales performance insights.
-- 🗃️ [Power BI Dashboard (.pxi)](https://drive.google.com/file/d/1kNQs_SnQU7FcJC__la1dfPLFO85QjBAo/view?usp=drive_link)
+### 🔗 Files:
+- 🗃️ [Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1kNQs_SnQU7FcJC__la1dfPLFO85QjBAo/view?usp=drive_link)
 
 ---
 
