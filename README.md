@@ -11,7 +11,7 @@ This portfolio project showcases a multi-phase, tool-diverse approach to analyzi
 | [Excel Dashboard & Report](#excel-analysis) | Excel, Pivot Tables, Charts | ✅ Completed |
 | [SQL Queries & Reporting](#sql-analysis) | SQL (SSMS) | ✅ Completed |
 | [Data Modeling & Normalization](#data-modeling-normalization) | SQL (Table Design) | ✅ Completed |
-| [Power BI Dashboard](#power-bi-dashboard) | Power BI | 🔄 In Progress |
+| [Power BI Dashboard](#power-bi-dashboard) | Power BI | ✅ Completed |
 
 ---
 
