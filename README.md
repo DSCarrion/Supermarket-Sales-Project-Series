@@ -57,6 +57,7 @@ Using the normalized dataset from the "Data Modeling & Normalization" module, I 
 
 ### 🔗 Files:
 - 🗃️ [Power BI Dashboard (PDF)](https://drive.google.com/file/d/1lYd8Xk-5XNoTJxU0SArZ1VXb-b5uPkbS/view?usp=drive_link)
+- 📄 [Power BI Project Report (PDF)](https://drive.google.com/file/d/1svl7D3jJIsQn4EiEkCDQVd5K7rnfGjwE/view?usp=drive_link)
 
 ---
 
